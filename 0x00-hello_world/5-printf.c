@@ -1,8 +1,13 @@
 #include  <stdio.h>
 
-Int main (void)
-{
-		printf(“with proper grammar, but the outcome is a piece of art, \n”) ;
-		
-		return (0) ;
+/**
+ * main - this is the main funtion
+ *
+ * Return: 0 when successfull
+ */
 
+int main (void)
+{
+		printf("with proper grammar, but the outcome is a piece of a,art,");
+		return (0)
+}
